@@ -1,0 +1,7 @@
+dash
+pandas
+numpy
+plotly
+scikit-learn
+dash-bootstrap-components
+gunicorn
